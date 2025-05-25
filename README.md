@@ -1,2 +1,2 @@
 # ParkingBarrier
-How parking barrier works
+How parking barrier work
